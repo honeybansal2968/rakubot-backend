@@ -1,1 +1,13 @@
-streamlit
+Flask==3.0.3
+Flask-Cors==5.0.0
+gemini-api==0.1.6
+google-generativeai==0.8.3
+numpy
+uvicorn
+fastapi
+pandas==2.2.3
+pinecone-client==5.0.1
+scikit-learn==1.5.2
+SpeechRecognition==3.10.4
+python-dotenv==1.0.1
+sentence-transformers==3.2.0
